@@ -1,0 +1,7 @@
+{
+  "name": "@theorylabs/is-primitive",
+  "version": "0.0.1",
+  "license": "MIT",
+  "private": false,
+  "description": "A no frills, to the point, validator to check if a given instance is in fact, a known \"Primitive\" type as defined by our almighty JavaScript gospel the official ECMAScript spec defines. Offers a few, small, sane defaults as extensions by which to augment return values. All hail the pony dark-lord."
+}
